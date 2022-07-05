@@ -1,1 +1,2 @@
 # GridStore
+<h2>Projeto criado para fins didaticos pela escola de programadores Alura, foi visto neste curso, a parte de CSS-Grid e aplicando todo aprendizado durante o curso resolvendo exercicios e configurando o projeto de acordo, foi feito pelo metodo desktop-first porem foi feito toda a configuração de responsividade, melhorando a experiencia do usuario mobile concluo este projeto com total aproveitamento. Após este curso me julgo capaz de criar qualquer projeto que tenha que ser inserido varios cards como por exemplo montar um layout para e-commerce.</h2>
